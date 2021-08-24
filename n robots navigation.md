@@ -69,6 +69,9 @@ $ rostopic list (to see the topics)
 ```
 $ rosrun rqt_graph rqt_graph
 ```
+![rosgraph](https://user-images.githubusercontent.com/53378171/130538265-1d10504b-78ce-4eeb-a87d-a0bceaaa1ab2.png)
+
+
 
 ### Final Result:
 https://user-images.githubusercontent.com/53378171/130535975-1c63edd2-b38d-477b-95d9-1df8b4bbf541.mov
