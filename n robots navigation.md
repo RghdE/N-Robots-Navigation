@@ -64,7 +64,7 @@ $ rostopic list (to see the topics)
 ![VirtualBox_Ubuntu 18 4 Bionic_23_08_2021_07_57_00](https://user-images.githubusercontent.com/53378171/130537848-63b7181f-3af8-4721-bd34-7762f4fce8f3.png)
 
 
-
+---
 
 ```
 $ rosrun rqt_graph rqt_graph
